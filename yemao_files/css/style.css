@@ -56,6 +56,27 @@ a:hover {
     transition: all 0.3s ease;
 }
 
+.l_box:hover img.img-responsive {
+    transform: translateY(-4px);
+    -webkit-transform: translateY(-4px);
+    -moz-transform: translateY(-4px);
+    border: 0px solid #999;
+    background-color: #191D20;
+    transform: rotate(20deg);
+    -ms-transform: rotate(20deg);
+    /* IE 9 */
+    -moz-transform: rotate(20deg);
+    /* Firefox */
+    -webkit-transform: rotate(20deg);
+    /* Safari 和 Chrome */
+    -o-transform: rotate(20deg);
+    /* Opera */
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
 .l_box2 {
     height: 80px;
     padding: 12px 10px 12px 10px;
@@ -271,6 +292,18 @@ p.stext::-moz-selection {
 
 img.img-responsive {
     border-radius: 50%;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+img.img-responsive:hover {
+    border-radius: 50%;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
 }
 
 .l_title {
