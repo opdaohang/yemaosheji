@@ -13,21 +13,28 @@
             <tspan x="141" y="97">颜色模式校正</tspan>
         </text>
         <text id="通过色彩模式矫正可以有效减少印前和印后的" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="19" fill="#A8B2BA">
-            <tspan x="62" y="131">通过色彩模式矫正可以有效减少印前和印后的色差问题。</tspan>
-            <tspan x="62" y="150">常用色彩模式</tspan>
-            <tspan x="62" y="169">色彩模式以建立良好的客观描述和重现色彩特征为基础，设计中常用的有RGB模式和CMYK模式。</tspan>
-            <tspan x="62" y="188">RGB色彩模式：是一种发光的色彩模式，人们在黑暗的房间内仍然可以看见电视屏幕上的内容，就是因为它使用了</tspan>
-            <tspan x="62" y="207">RGB色彩显示模式。电脑、手机屏幕都使用了RGB色彩模式，纯度很高。</tspan>
-            <tspan x="62" y="226">CMYK色彩模式：为什么在黑暗的房间中却无法阅读书籍？因为印刷品上的图像都是CMYK模式。CMYK依靠反</tspan>
-            <tspan x="62" y="245">光，由阳光或灯光照射到印刷品上，再反射进人眼。如杂志、报纸、招贴等。印刷色彩最好用CMY三种油墨混合，</tspan>
-            <tspan x="62" y="264">不易显脏。</tspan>
-            <tspan x="62" y="283">通常情况下，彩色校正以青色（Cyan）、品红色（Magenta）、黄色（Yellow）、红色（Red）、绿色（Green）</tspan>
-            <tspan x="62" y="302">和蓝色（Violet）六色为基准。对于以某一色调为基本色的图像，可以适当夸张基本色，给足色调使印刷效果更突</tspan>
-            <tspan x="62" y="321">出。还可减少相反色用量，衬托基本色的纯度。</tspan>
+            <tspan x="62" y="131" fill-opacity="0.6">通过色彩模式矫正可以有效减少印前和印后的色差问题。</tspan>
+            <tspan x="413.008" y="131"></tspan>
+            <tspan x="62" y="150" font-family="PingFangSC-Medium, PingFang SC" font-weight="400">常用色彩模式</tspan>
+            <tspan x="147.008" y="150"></tspan>
+            <tspan x="62" y="169" fill-opacity="0.6">色彩模式以建立良好的客观描述和重现色彩特征为基础，设计中常用的有RGB模式和CMYK模式。</tspan>
+            <tspan x="665.89" y="169"></tspan>
+            <tspan x="62" y="188" font-family="PingFangSC-Medium, PingFang SC" font-weight="400">RGB色彩模式：</tspan>
+            <tspan x="162.20408" y="188" fill-opacity="0.6">是一种发光的色彩模式，人们在黑暗的房间内仍然可以看见电视屏幕上的内容，就是因为它使用了</tspan>
+            <tspan x="62" y="207" fill-opacity="0.6">RGB色彩显示模式。电脑、手机屏幕都使用了RGB色彩模式，纯度很高。</tspan>
+            <tspan x="513.836" y="207"></tspan>
+            <tspan x="62" y="226" font-family="PingFangSC-Medium, PingFang SC" font-weight="400">CMYK色彩模式：</tspan>
+            <tspan x="177.606353" y="226" fill-opacity="0.6">为什么在黑暗的房间中却无法阅读书籍？因为印刷品上的图像都是CMYK模式。CMYK依靠反</tspan>
+            <tspan x="62" y="245" fill-opacity="0.6">光，由阳光或灯光照射到印刷品上，再反射进人眼。如杂志、报纸、招贴等。印刷色彩最好用CMY三种油墨混合，</tspan>
+            <tspan x="62" y="264" fill-opacity="0.6">不易显脏。</tspan>
+            <tspan x="62" y="283" fill-opacity="0.6">通常情况下，彩色校正以青色（Cyan）、品红色（Magenta）、黄色（Yellow）、红色（Red）、绿色（Green）</tspan>
+            <tspan x="62" y="302" fill-opacity="0.6">和蓝色（Violet）六色为基准。对于以某一色调为基本色的图像，可以适当夸张基本色，给足色调使印刷效果更突</tspan>
+            <tspan x="62" y="321" fill-opacity="0.6">出。还可减少相反色用量，衬托基本色的纯度。</tspan>
         </text>
         <text id="《设计师必懂的黄金设计法则》-读书笔记" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="24" fill="#3A4249">
-            <tspan x="62" y="353">《设计师必懂的黄金设计法则》     </tspan>
-            <tspan x="62" y="377">读书笔记 设计原则 思考总结</tspan>
+            <tspan x="55" y="353">《设计师必懂的黄金设计法则》     </tspan>
+            <tspan x="55" y="377" letter-spacing="-1">  </tspan>
+            <tspan x="62.324" y="377">读书笔记 设计原则 思考总结</tspan>
         </text>
     </g>
 </svg>

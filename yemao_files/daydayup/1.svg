@@ -38,8 +38,9 @@
             <tspan x="234.606" y="315" fill-opacity="0.6">文字的色彩左右着文字的识别性、层级和情感表达，是不可忽视的要素。</tspan>
         </text>
         <text id="《设计师必懂的黄金设计法则》-读书笔记" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="24" fill="#3A4249">
-            <tspan x="62" y="353">《设计师必懂的黄金设计法则》     </tspan>
-            <tspan x="62" y="377">读书笔记 设计原则 思考总结</tspan>
+            <tspan x="55" y="353">《设计师必懂的黄金设计法则》     </tspan>
+            <tspan x="55" y="377" letter-spacing="-1">  </tspan>
+            <tspan x="62.324" y="377">读书笔记 设计原则 思考总结</tspan>
         </text>
     </g>
 </svg>

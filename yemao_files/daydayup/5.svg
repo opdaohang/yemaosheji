@@ -33,8 +33,9 @@
             <tspan x="62" y="316" fill-opacity="0.6">彩为基调的版面中，适当点缀一些低纯度的元素，可以缓解视觉疲劳，缓和过于刺激的感觉。</tspan>
         </text>
         <text id="《设计师必懂的黄金设计法则》-读书笔记" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="24" fill="#3A4249">
-            <tspan x="62" y="353">《设计师必懂的黄金设计法则》     </tspan>
-            <tspan x="62" y="377">读书笔记 设计原则 思考总结</tspan>
+            <tspan x="55" y="353">《设计师必懂的黄金设计法则》     </tspan>
+            <tspan x="55" y="377" letter-spacing="-1">  </tspan>
+            <tspan x="62.324" y="377">读书笔记 设计原则 思考总结</tspan>
         </text>
     </g>
 </svg>
